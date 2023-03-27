@@ -3,7 +3,6 @@ Blackjack (a.k.a 21)
 The player attempts to beat the dealer by getting a
 hand value as close to 21 as possible, without going over 21.
 
-Khue (Jennifer) Ha
 """
 import random
 import time
@@ -254,3 +253,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    
+    
+    
+    
